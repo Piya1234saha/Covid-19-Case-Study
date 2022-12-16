@@ -6,7 +6,10 @@ Analyse the Covid -19 Pandemic scenario
 This case study consists of 2 data sets. 
 The first dataset Case_detail consists of Covid-19 pandemic case records in different countries.
 The second dataset Vacc_detail contains the Vaccination records and the Death records.
-![image](https://user-images.githubusercontent.com/82544165/208039558-48c4bd18-755f-4fe3-9799-001754540a43.png)
+
+                                     
+                                     ![image](https://user-images.githubusercontent.com/82544165/208039711-e668a6eb-eb52-498b-a681-29e79b28115b.png)
+
 
 
 
