@@ -1,3 +1,4 @@
 # Covid-19-Case-Study
-Objective To Analyse the Covid -19 Pandemic scenario 
-![image](https://user-images.githubusercontent.com/82544165/208038650-0201e9a2-016d-4297-ac57-dd119d6d3703.png)
+Objective :Analyse the Covid -19 Pandemic scenario 
+![image](https://user-images.githubusercontent.com/82544165/208038849-4cfde5c9-1074-40ea-aa7e-520f1f6fefca.png)
+
