@@ -14,7 +14,8 @@ The second dataset Vacc_detail contains the Vaccination records and the Death re
 -> Till Dec 2022 more than 63% of vaccines have been done around the world!
 
 
-![image](https://user-images.githubusercontent.com/82544165/208041269-5ed83ca6-bd4b-4dbd-a211-149f97cb40af.png)
+![image](https://user-images.githubusercontent.com/82544165/208044361-702fd9d5-109e-43ff-b08e-b349ccd6b913.png)
+
 
 
 # Fully Vaccination Rate Based On The Highly Populated Countries:
