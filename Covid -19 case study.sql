@@ -1,7 +1,7 @@
-/*difficulties the faced:
-1. Here, `row data` is in `date format` but format is not SQL date Format type"YYYY-MM-DD" previousely, so I tried to UPLOAD DATE by 
-writting ----`Dates` Date syntax but it shows me 0000-00-00 values.
-then i convert `excel date format dd-mm-yy` to `date Format type"YYYY-MM-DD"` then in mysql correct dates shows up */ 
+/*difficulties that faced:
+In the Covid_19 case study `row data` was in `date format` but was not SQL date Format type "YYYY-MM-DD" previously, 
+so I tried to UPLOAD Dates attribute by writing ----` Dates` Date syntax and running the query but  0000-00-00 values resulted.
+After conversion `excel date format dd-mm-yy to `date Format type "YYYY-MM-DD"` then correct dates showed up in MYSQL */ 
 
 
 create database covid_19 ;
