@@ -1,11 +1,12 @@
 # Covid-19-Case-Study
 # Objective :
-Analyse the Covid -19 Pandemic scenario 
+The objective of this project is to analyze and interpret COVID-19 data across various countries and continents, focusing on vaccination rates, infection likelihood, death rates, and the impact of the pandemic over time. The analysis aims to identify key trends and insights that can inform public health strategies and provide a clearer understanding of the pandemic's global impact. Using SQL for data manipulation and querying, this project aims to generate detailed reports and visualizations that emphasize key elements of the COVID-19 pandemic.
 
 # Case study :
-This case study consists of 2 data sets. 
-The first dataset Case_detail consists of Covid-19 pandemic case records in different countries.
-The second dataset Vacc_detail contains the Vaccination records and the Death records.
+This case study consists of two distinct datasets:  
+The first dataset Case_detail consists of Covid-19 pandemic case records in different countries.  
+The second dataset Vacc_detail contains the Vaccination records and the Death records.  
+The Case_detail dataset contains records of COVID-19 cases, including the total number of cases, new cases, total deaths, and new deaths across various countries. The Vacc_detail dataset provides information on vaccination rates, the number of people vaccinated, and associated death records. 
 
 
 # Year-wise Vaccination Percentage:
